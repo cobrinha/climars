@@ -5,8 +5,8 @@
     "lat": -30.0346,
     "lon": -51.2177,
     "weather": "sunny",
-    "temperature": 31,
-    "feelsLike": 32,
+    "temperature": 32,
+    "feelsLike": 33,
     "rainfall": 0,
     "windSpeed": 26
   },
@@ -62,7 +62,7 @@
     "weather": "rain",
     "temperature": 23,
     "feelsLike": 23,
-    "rainfall": 2,
+    "rainfall": 1,
     "windSpeed": 29
   },
   {
@@ -93,7 +93,7 @@
     "lat": -29.985,
     "lon": -50.133,
     "weather": "sunny",
-    "temperature": 30,
+    "temperature": 31,
     "feelsLike": 33,
     "rainfall": 0,
     "windSpeed": 3
@@ -237,9 +237,9 @@
     "lon": -51.1314,
     "weather": "cloudy",
     "temperature": 32,
-    "feelsLike": 34,
+    "feelsLike": 35,
     "rainfall": 0,
-    "windSpeed": 11
+    "windSpeed": 14
   },
   {
     "id": 24,
@@ -327,7 +327,7 @@
     "temperature": 27,
     "feelsLike": 27,
     "rainfall": 0,
-    "windSpeed": 10
+    "windSpeed": 8
   },
   {
     "id": 32,
@@ -346,8 +346,8 @@
     "lat": -29.6508,
     "lon": -50.7819,
     "weather": "cloudy",
-    "temperature": 30,
-    "feelsLike": 32,
+    "temperature": 31,
+    "feelsLike": 33,
     "rainfall": 0,
     "windSpeed": 17
   },
@@ -360,7 +360,7 @@
     "temperature": 28,
     "feelsLike": 28,
     "rainfall": 0,
-    "windSpeed": 3
+    "windSpeed": 8
   },
   {
     "id": 36,
@@ -392,7 +392,7 @@
     "weather": "rain",
     "temperature": 22,
     "feelsLike": 22,
-    "rainfall": 1,
+    "rainfall": 2,
     "windSpeed": 18
   },
   {
@@ -422,7 +422,7 @@
     "name": "Piratini",
     "lat": -31.448,
     "lon": -53.103,
-    "weather": "cloudy",
+    "weather": "rain",
     "temperature": 22,
     "feelsLike": 22,
     "rainfall": 0,
@@ -445,9 +445,9 @@
     "lat": -30.891,
     "lon": -55.533,
     "weather": "rain",
-    "temperature": 22,
-    "feelsLike": 23,
-    "rainfall": 1,
+    "temperature": 21,
+    "feelsLike": 22,
+    "rainfall": 0,
     "windSpeed": 20
   },
   {
@@ -490,7 +490,7 @@
     "lon": -54.96,
     "weather": "cloudy",
     "temperature": 29,
-    "feelsLike": 29,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 18
   },
@@ -566,8 +566,8 @@
     "lat": -29.6894,
     "lon": -51.4606,
     "weather": "cloudy",
-    "temperature": 31,
-    "feelsLike": 33,
+    "temperature": 30,
+    "feelsLike": 32,
     "rainfall": 0,
     "windSpeed": 16
   },
