@@ -6,7 +6,7 @@
     "lon": -51.2177,
     "weather": "cloudy",
     "temperature": 31,
-    "feelsLike": 32,
+    "feelsLike": 31,
     "rainfall": 0,
     "windSpeed": 24
   },
@@ -96,7 +96,7 @@
     "temperature": 28,
     "feelsLike": 31,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 7
   },
   {
     "id": 11,
@@ -115,10 +115,10 @@
     "lat": -31.331,
     "lon": -54.108,
     "weather": "cloudy",
-    "temperature": 22,
-    "feelsLike": 22,
+    "temperature": 21,
+    "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 22
+    "windSpeed": 28
   },
   {
     "id": 13,
@@ -148,10 +148,10 @@
     "lat": -29.717,
     "lon": -52.427,
     "weather": "cloudy",
-    "temperature": 29,
-    "feelsLike": 31,
+    "temperature": 27,
+    "feelsLike": 30,
     "rainfall": 0,
-    "windSpeed": 20
+    "windSpeed": 13
   },
   {
     "id": 16,
@@ -159,7 +159,7 @@
     "lat": -30.188,
     "lon": -52.373,
     "weather": "cloudy",
-    "temperature": 28,
+    "temperature": 27,
     "feelsLike": 29,
     "rainfall": 0,
     "windSpeed": 18
@@ -181,7 +181,7 @@
     "lat": -30.852,
     "lon": -51.812,
     "weather": "cloudy",
-    "temperature": 26,
+    "temperature": 25,
     "feelsLike": 26,
     "rainfall": 0,
     "windSpeed": 19
@@ -226,7 +226,7 @@
     "lon": -54.3203,
     "weather": "cloudy",
     "temperature": 23,
-    "feelsLike": 23,
+    "feelsLike": 24,
     "rainfall": 0,
     "windSpeed": 15
   },
@@ -236,10 +236,10 @@
     "lat": -29.6869,
     "lon": -51.1314,
     "weather": "cloudy",
-    "temperature": 31,
-    "feelsLike": 33,
+    "temperature": 29,
+    "feelsLike": 31,
     "rainfall": 0,
-    "windSpeed": 6
+    "windSpeed": 13
   },
   {
     "id": 24,
@@ -258,10 +258,10 @@
     "lat": -30.1811,
     "lon": -50.2056,
     "weather": "cloudy",
-    "temperature": 30,
-    "feelsLike": 32,
+    "temperature": 28,
+    "feelsLike": 30,
     "rainfall": 0,
-    "windSpeed": 6
+    "windSpeed": 15
   },
   {
     "id": 26,
@@ -270,7 +270,7 @@
     "lon": -50.0097,
     "weather": "cloudy",
     "temperature": 28,
-    "feelsLike": 31,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 6
   },
@@ -291,10 +291,10 @@
     "lat": -28.5128,
     "lon": -50.9331,
     "weather": "cloudy",
-    "temperature": 24,
+    "temperature": 23,
     "feelsLike": 24,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 9
   },
   {
     "id": 29,
@@ -324,10 +324,10 @@
     "lat": -29.3744,
     "lon": -50.8761,
     "weather": "cloudy",
-    "temperature": 26,
-    "feelsLike": 26,
+    "temperature": 24,
+    "feelsLike": 25,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 6
   },
   {
     "id": 32,
@@ -347,7 +347,7 @@
     "lon": -50.7819,
     "weather": "cloudy",
     "temperature": 29,
-    "feelsLike": 33,
+    "feelsLike": 31,
     "rainfall": 0,
     "windSpeed": 8
   },
@@ -360,7 +360,7 @@
     "temperature": 26,
     "feelsLike": 26,
     "rainfall": 0,
-    "windSpeed": 2
+    "windSpeed": 6
   },
   {
     "id": 36,
@@ -511,7 +511,7 @@
     "lat": -31.109,
     "lon": -50.919,
     "weather": "cloudy",
-    "temperature": 25,
+    "temperature": 24,
     "feelsLike": 25,
     "rainfall": 0,
     "windSpeed": 29
@@ -522,8 +522,8 @@
     "lat": -29.466,
     "lon": -51.966,
     "weather": "cloudy",
-    "temperature": 31,
-    "feelsLike": 34,
+    "temperature": 28,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 19
   },
@@ -533,7 +533,7 @@
     "lat": -29.799,
     "lon": -51.86,
     "weather": "cloudy",
-    "temperature": 29,
+    "temperature": 28,
     "feelsLike": 31,
     "rainfall": 0,
     "windSpeed": 13
@@ -567,7 +567,7 @@
     "lon": -51.4606,
     "weather": "cloudy",
     "temperature": 29,
-    "feelsLike": 31,
+    "feelsLike": 32,
     "rainfall": 0,
     "windSpeed": 15
   },
@@ -633,7 +633,7 @@
     "lon": -49.886,
     "weather": "cloudy",
     "temperature": 28,
-    "feelsLike": 31,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 8
   },
@@ -655,7 +655,7 @@
     "lon": -50.7891,
     "weather": "cloudy",
     "temperature": 28,
-    "feelsLike": 31,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 22
   }
