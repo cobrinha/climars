@@ -6,7 +6,7 @@
     "lon": -51.2177,
     "weather": "sunny",
     "temperature": 32,
-    "feelsLike": 32,
+    "feelsLike": 33,
     "rainfall": 0,
     "windSpeed": 30
   },
@@ -26,7 +26,7 @@
     "name": "Pelotas",
     "lat": -31.7719,
     "lon": -52.3426,
-    "weather": "cloudy",
+    "weather": "rain",
     "temperature": 23,
     "feelsLike": 23,
     "rainfall": 0,
@@ -107,7 +107,7 @@
     "temperature": 27,
     "feelsLike": 27,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 16
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "weather": "rain",
     "temperature": 20,
     "feelsLike": 20,
-    "rainfall": 1,
+    "rainfall": 0,
     "windSpeed": 22
   },
   {
@@ -171,7 +171,7 @@
     "lon": -51.728,
     "weather": "cloudy",
     "temperature": 31,
-    "feelsLike": 32,
+    "feelsLike": 33,
     "rainfall": 0,
     "windSpeed": 19
   },
@@ -181,10 +181,10 @@
     "lat": -30.852,
     "lon": -51.812,
     "weather": "cloudy",
-    "temperature": 30,
-    "feelsLike": 31,
+    "temperature": 28,
+    "feelsLike": 30,
     "rainfall": 0,
-    "windSpeed": 19
+    "windSpeed": 15
   },
   {
     "id": 19,
@@ -203,10 +203,10 @@
     "lat": -33.6875,
     "lon": -53.4561,
     "weather": "cloudy",
-    "temperature": 15,
-    "feelsLike": 15,
+    "temperature": 17,
+    "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 19
   },
   {
     "id": 21,
@@ -324,8 +324,8 @@
     "lat": -29.3744,
     "lon": -50.8761,
     "weather": "sunny",
-    "temperature": 27,
-    "feelsLike": 27,
+    "temperature": 28,
+    "feelsLike": 28,
     "rainfall": 0,
     "windSpeed": 11
   },
@@ -357,10 +357,10 @@
     "lat": -29.1711,
     "lon": -51.5194,
     "weather": "cloudy",
-    "temperature": 26,
-    "feelsLike": 26,
+    "temperature": 28,
+    "feelsLike": 28,
     "rainfall": 0,
-    "windSpeed": 6
+    "windSpeed": 5
   },
   {
     "id": 36,
@@ -392,7 +392,7 @@
     "weather": "rain",
     "temperature": 23,
     "feelsLike": 23,
-    "rainfall": 1,
+    "rainfall": 2,
     "windSpeed": 19
   },
   {
@@ -433,7 +433,7 @@
     "name": "Quaraí",
     "lat": -30.386,
     "lon": -56.452,
-    "weather": "rain",
+    "weather": "cloudy",
     "temperature": 24,
     "feelsLike": 24,
     "rainfall": 0,
@@ -444,11 +444,11 @@
     "name": "Santana do Livramento",
     "lat": -30.891,
     "lon": -55.533,
-    "weather": "rain",
+    "weather": "cloudy",
     "temperature": 22,
     "feelsLike": 23,
-    "rainfall": 1,
-    "windSpeed": 20
+    "rainfall": 0,
+    "windSpeed": 19
   },
   {
     "id": 44,
@@ -468,7 +468,7 @@
     "lon": -53.933,
     "weather": "cloudy",
     "temperature": 30,
-    "feelsLike": 29,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 17
   },
@@ -489,8 +489,8 @@
     "lat": -28.408,
     "lon": -54.96,
     "weather": "cloudy",
-    "temperature": 28,
-    "feelsLike": 29,
+    "temperature": 29,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 15
   },
@@ -522,8 +522,8 @@
     "lat": -29.466,
     "lon": -51.966,
     "weather": "cloudy",
-    "temperature": 32,
-    "feelsLike": 37,
+    "temperature": 33,
+    "feelsLike": 36,
     "rainfall": 0,
     "windSpeed": 17
   },
@@ -534,7 +534,7 @@
     "lon": -51.86,
     "weather": "cloudy",
     "temperature": 32,
-    "feelsLike": 33,
+    "feelsLike": 34,
     "rainfall": 0,
     "windSpeed": 19
   },
