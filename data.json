@@ -26,7 +26,7 @@
     "name": "Pelotas",
     "lat": -31.7719,
     "lon": -52.3426,
-    "weather": "rain",
+    "weather": "cloudy",
     "temperature": 24,
     "feelsLike": 24,
     "rainfall": 0,
@@ -59,11 +59,11 @@
     "name": "Rio Grande",
     "lat": -32.035,
     "lon": -52.0986,
-    "weather": "rain",
-    "temperature": 22,
-    "feelsLike": 22,
+    "weather": "cloudy",
+    "temperature": 18,
+    "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 31
+    "windSpeed": 33
   },
   {
     "id": 8,
@@ -107,7 +107,7 @@
     "temperature": 27,
     "feelsLike": 27,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 15
   },
   {
     "id": 12,
@@ -215,7 +215,7 @@
     "lon": -54.9139,
     "weather": "cloudy",
     "temperature": 24,
-    "feelsLike": 24,
+    "feelsLike": 25,
     "rainfall": 0,
     "windSpeed": 20
   },
@@ -237,7 +237,7 @@
     "lon": -51.1314,
     "weather": "cloudy",
     "temperature": 32,
-    "feelsLike": 36,
+    "feelsLike": 35,
     "rainfall": 0,
     "windSpeed": 11
   },
@@ -325,9 +325,9 @@
     "lon": -50.8761,
     "weather": "cloudy",
     "temperature": 29,
-    "feelsLike": 28,
+    "feelsLike": 29,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 6
   },
   {
     "id": 32,
@@ -335,10 +335,10 @@
     "lat": -29.4478,
     "lon": -50.5828,
     "weather": "cloudy",
-    "temperature": 26,
-    "feelsLike": 26,
+    "temperature": 27,
+    "feelsLike": 27,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 14
   },
   {
     "id": 33,
@@ -346,8 +346,8 @@
     "lat": -29.6508,
     "lon": -50.7819,
     "weather": "cloudy",
-    "temperature": 32,
-    "feelsLike": 34,
+    "temperature": 31,
+    "feelsLike": 33,
     "rainfall": 0,
     "windSpeed": 13
   },
@@ -360,7 +360,7 @@
     "temperature": 28,
     "feelsLike": 28,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 14
   },
   {
     "id": 36,
@@ -490,9 +490,9 @@
     "lon": -54.96,
     "weather": "cloudy",
     "temperature": 29,
-    "feelsLike": 30,
+    "feelsLike": 29,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 9
   },
   {
     "id": 48,
@@ -523,7 +523,7 @@
     "lon": -51.966,
     "weather": "cloudy",
     "temperature": 32,
-    "feelsLike": 38,
+    "feelsLike": 36,
     "rainfall": 0,
     "windSpeed": 18
   },
@@ -534,7 +534,7 @@
     "lon": -51.86,
     "weather": "cloudy",
     "temperature": 32,
-    "feelsLike": 34,
+    "feelsLike": 35,
     "rainfall": 0,
     "windSpeed": 17
   },
@@ -643,7 +643,7 @@
     "lat": -30.155,
     "lon": -50.513,
     "weather": "cloudy",
-    "temperature": 31,
+    "temperature": 32,
     "feelsLike": 34,
     "rainfall": 0,
     "windSpeed": 21
