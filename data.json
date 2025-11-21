@@ -62,7 +62,7 @@
     "weather": "rain",
     "temperature": 23,
     "feelsLike": 23,
-    "rainfall": 0,
+    "rainfall": 2,
     "windSpeed": 18
   },
   {
@@ -83,7 +83,7 @@
     "lon": -49.727,
     "weather": "cloudy",
     "temperature": 28,
-    "feelsLike": 29,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 14
   },
@@ -93,7 +93,7 @@
     "lat": -29.985,
     "lon": -50.133,
     "weather": "sunny",
-    "temperature": 28,
+    "temperature": 29,
     "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 8
@@ -149,7 +149,7 @@
     "lon": -52.427,
     "weather": "cloudy",
     "temperature": 29,
-    "feelsLike": 29,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 15
   },
@@ -160,7 +160,7 @@
     "lon": -52.373,
     "weather": "cloudy",
     "temperature": 29,
-    "feelsLike": 29,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 17
   },
@@ -237,9 +237,9 @@
     "lon": -51.1314,
     "weather": "sunny",
     "temperature": 30,
-    "feelsLike": 31,
+    "feelsLike": 32,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 14
   },
   {
     "id": 24,
@@ -258,7 +258,7 @@
     "lat": -30.1811,
     "lon": -50.2056,
     "weather": "sunny",
-    "temperature": 28,
+    "temperature": 29,
     "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 7
@@ -281,7 +281,7 @@
     "lon": -50.4183,
     "weather": "cloudy",
     "temperature": 23,
-    "feelsLike": 22,
+    "feelsLike": 23,
     "rainfall": 0,
     "windSpeed": 13
   },
@@ -327,7 +327,7 @@
     "temperature": 26,
     "feelsLike": 26,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 6
   },
   {
     "id": 32,
@@ -336,7 +336,7 @@
     "lon": -50.5828,
     "weather": "cloudy",
     "temperature": 24,
-    "feelsLike": 23,
+    "feelsLike": 24,
     "rainfall": 0,
     "windSpeed": 12
   },
@@ -357,10 +357,10 @@
     "lat": -29.1711,
     "lon": -51.5194,
     "weather": "cloudy",
-    "temperature": 23,
-    "feelsLike": 23,
+    "temperature": 24,
+    "feelsLike": 24,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 6
   },
   {
     "id": 36,
@@ -380,7 +380,7 @@
     "lon": -53.4914,
     "weather": "cloudy",
     "temperature": 25,
-    "feelsLike": 25,
+    "feelsLike": 26,
     "rainfall": 0,
     "windSpeed": 13
   },
@@ -425,7 +425,7 @@
     "weather": "rain",
     "temperature": 21,
     "feelsLike": 21,
-    "rainfall": 1,
+    "rainfall": 0,
     "windSpeed": 10
   },
   {
@@ -447,7 +447,7 @@
     "weather": "rain",
     "temperature": 21,
     "feelsLike": 22,
-    "rainfall": 1,
+    "rainfall": 0,
     "windSpeed": 12
   },
   {
@@ -511,8 +511,8 @@
     "lat": -31.109,
     "lon": -50.919,
     "weather": "cloudy",
-    "temperature": 26,
-    "feelsLike": 26,
+    "temperature": 27,
+    "feelsLike": 27,
     "rainfall": 0,
     "windSpeed": 20
   },
@@ -523,7 +523,7 @@
     "lon": -51.966,
     "weather": "cloudy",
     "temperature": 30,
-    "feelsLike": 32,
+    "feelsLike": 33,
     "rainfall": 0,
     "windSpeed": 14
   },
@@ -566,8 +566,8 @@
     "lat": -29.6894,
     "lon": -51.4606,
     "weather": "cloudy",
-    "temperature": 28,
-    "feelsLike": 30,
+    "temperature": 29,
+    "feelsLike": 31,
     "rainfall": 0,
     "windSpeed": 16
   },
@@ -576,7 +576,7 @@
     "name": "Aceguá",
     "lat": -31.865,
     "lon": -54.165,
-    "weather": "rain",
+    "weather": "cloudy",
     "temperature": 21,
     "feelsLike": 21,
     "rainfall": 0,
@@ -610,7 +610,7 @@
     "lat": -28.208,
     "lon": -51.525,
     "weather": "cloudy",
-    "temperature": 24,
+    "temperature": 25,
     "feelsLike": 24,
     "rainfall": 0,
     "windSpeed": 14
@@ -655,7 +655,7 @@
     "lon": -50.7891,
     "weather": "sunny",
     "temperature": 29,
-    "feelsLike": 29,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 18
   }
