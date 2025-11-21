@@ -8,16 +8,16 @@
     "temperature": 32,
     "feelsLike": 33,
     "rainfall": 0,
-    "windSpeed": 26
+    "windSpeed": 24
   },
   {
     "id": 2,
     "name": "Caxias do Sul",
     "lat": -29.1678,
     "lon": -51.1794,
-    "weather": "sunny",
+    "weather": "cloudy",
     "temperature": 27,
-    "feelsLike": 28,
+    "feelsLike": 27,
     "rainfall": 0,
     "windSpeed": 15
   },
@@ -27,10 +27,10 @@
     "lat": -31.7719,
     "lon": -52.3426,
     "weather": "cloudy",
-    "temperature": 25,
-    "feelsLike": 25,
+    "temperature": 23,
+    "feelsLike": 23,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 37
   },
   {
     "id": 4,
@@ -38,10 +38,10 @@
     "lat": -29.6842,
     "lon": -53.8069,
     "weather": "cloudy",
-    "temperature": 28,
-    "feelsLike": 28,
+    "temperature": 29,
+    "feelsLike": 29,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 9
   },
   {
     "id": 6,
@@ -59,10 +59,10 @@
     "name": "Rio Grande",
     "lat": -32.035,
     "lon": -52.0986,
-    "weather": "rain",
+    "weather": "cloudy",
     "temperature": 23,
     "feelsLike": 23,
-    "rainfall": 1,
+    "rainfall": 0,
     "windSpeed": 29
   },
   {
@@ -72,9 +72,9 @@
     "lon": -52.4069,
     "weather": "cloudy",
     "temperature": 28,
-    "feelsLike": 28,
+    "feelsLike": 27,
     "rainfall": 0,
-    "windSpeed": 20
+    "windSpeed": 22
   },
   {
     "id": 9,
@@ -118,7 +118,7 @@
     "temperature": 20,
     "feelsLike": 20,
     "rainfall": 1,
-    "windSpeed": 24
+    "windSpeed": 22
   },
   {
     "id": 13,
@@ -171,7 +171,7 @@
     "lon": -51.728,
     "weather": "cloudy",
     "temperature": 31,
-    "feelsLike": 32,
+    "feelsLike": 33,
     "rainfall": 0,
     "windSpeed": 18
   },
@@ -213,10 +213,10 @@
     "name": "Rosário do Sul",
     "lat": -30.2586,
     "lon": -54.9139,
-    "weather": "rain",
+    "weather": "cloudy",
     "temperature": 23,
     "feelsLike": 23,
-    "rainfall": 1,
+    "rainfall": 0,
     "windSpeed": 21
   },
   {
@@ -227,7 +227,7 @@
     "weather": "rain",
     "temperature": 25,
     "feelsLike": 25,
-    "rainfall": 1,
+    "rainfall": 0,
     "windSpeed": 27
   },
   {
@@ -237,7 +237,7 @@
     "lon": -51.1314,
     "weather": "cloudy",
     "temperature": 32,
-    "feelsLike": 35,
+    "feelsLike": 34,
     "rainfall": 0,
     "windSpeed": 14
   },
@@ -258,7 +258,7 @@
     "lat": -30.1811,
     "lon": -50.2056,
     "weather": "sunny",
-    "temperature": 30,
+    "temperature": 31,
     "feelsLike": 32,
     "rainfall": 0,
     "windSpeed": 4
@@ -303,7 +303,7 @@
     "lon": -53.395,
     "weather": "cloudy",
     "temperature": 29,
-    "feelsLike": 28,
+    "feelsLike": 29,
     "rainfall": 0,
     "windSpeed": 5
   },
@@ -327,7 +327,7 @@
     "temperature": 27,
     "feelsLike": 27,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 3
   },
   {
     "id": 32,
@@ -357,10 +357,10 @@
     "lat": -29.1711,
     "lon": -51.5194,
     "weather": "cloudy",
-    "temperature": 28,
+    "temperature": 27,
     "feelsLike": 28,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 6
   },
   {
     "id": 36,
@@ -378,7 +378,7 @@
     "name": "Caçapava do Sul",
     "lat": -30.5122,
     "lon": -53.4914,
-    "weather": "cloudy",
+    "weather": "rain",
     "temperature": 26,
     "feelsLike": 26,
     "rainfall": 0,
@@ -391,8 +391,8 @@
     "lon": -54.6739,
     "weather": "rain",
     "temperature": 22,
-    "feelsLike": 22,
-    "rainfall": 2,
+    "feelsLike": 23,
+    "rainfall": 1,
     "windSpeed": 18
   },
   {
@@ -425,7 +425,7 @@
     "weather": "rain",
     "temperature": 22,
     "feelsLike": 22,
-    "rainfall": 0,
+    "rainfall": 1,
     "windSpeed": 17
   },
   {
@@ -445,9 +445,9 @@
     "lat": -30.891,
     "lon": -55.533,
     "weather": "rain",
-    "temperature": 21,
-    "feelsLike": 22,
-    "rainfall": 0,
+    "temperature": 22,
+    "feelsLike": 23,
+    "rainfall": 2,
     "windSpeed": 20
   },
   {
@@ -501,7 +501,7 @@
     "lon": -52.522,
     "weather": "cloudy",
     "temperature": 28,
-    "feelsLike": 28,
+    "feelsLike": 29,
     "rainfall": 0,
     "windSpeed": 22
   },
@@ -534,7 +534,7 @@
     "lon": -51.86,
     "weather": "cloudy",
     "temperature": 32,
-    "feelsLike": 33,
+    "feelsLike": 34,
     "rainfall": 0,
     "windSpeed": 15
   },
@@ -576,10 +576,10 @@
     "name": "Aceguá",
     "lat": -31.865,
     "lon": -54.165,
-    "weather": "rain",
+    "weather": "cloudy",
     "temperature": 22,
     "feelsLike": 22,
-    "rainfall": 1,
+    "rainfall": 0,
     "windSpeed": 29
   },
   {
@@ -599,8 +599,8 @@
     "lat": -29.088,
     "lon": -53.843,
     "weather": "cloudy",
-    "temperature": 26,
-    "feelsLike": 26,
+    "temperature": 27,
+    "feelsLike": 27,
     "rainfall": 0,
     "windSpeed": 23
   },
@@ -621,8 +621,8 @@
     "lat": -31.365,
     "lon": -51.978,
     "weather": "cloudy",
-    "temperature": 26,
-    "feelsLike": 26,
+    "temperature": 27,
+    "feelsLike": 28,
     "rainfall": 0,
     "windSpeed": 23
   },
@@ -644,7 +644,7 @@
     "lon": -50.513,
     "weather": "sunny",
     "temperature": 31,
-    "feelsLike": 32,
+    "feelsLike": 33,
     "rainfall": 0,
     "windSpeed": 24
   },
