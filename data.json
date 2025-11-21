@@ -4,11 +4,11 @@
     "name": "Porto Alegre",
     "lat": -30.0346,
     "lon": -51.2177,
-    "weather": "sunny",
+    "weather": "cloudy",
     "temperature": 32,
     "feelsLike": 33,
     "rainfall": 0,
-    "windSpeed": 30
+    "windSpeed": 26
   },
   {
     "id": 2,
@@ -16,21 +16,21 @@
     "lat": -29.1678,
     "lon": -51.1794,
     "weather": "cloudy",
-    "temperature": 27,
-    "feelsLike": 27,
+    "temperature": 28,
+    "feelsLike": 28,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 13
   },
   {
     "id": 3,
     "name": "Pelotas",
     "lat": -31.7719,
     "lon": -52.3426,
-    "weather": "cloudy",
-    "temperature": 23,
-    "feelsLike": 23,
+    "weather": "rain",
+    "temperature": 24,
+    "feelsLike": 24,
     "rainfall": 0,
-    "windSpeed": 37
+    "windSpeed": 33
   },
   {
     "id": 4,
@@ -38,10 +38,10 @@
     "lat": -29.6842,
     "lon": -53.8069,
     "weather": "cloudy",
-    "temperature": 29,
+    "temperature": 28,
     "feelsLike": 29,
     "rainfall": 0,
-    "windSpeed": 9
+    "windSpeed": 18
   },
   {
     "id": 6,
@@ -49,18 +49,18 @@
     "lat": -29.7558,
     "lon": -57.0883,
     "weather": "cloudy",
-    "temperature": 21,
-    "feelsLike": 21,
+    "temperature": 22,
+    "feelsLike": 22,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 20
   },
   {
     "id": 7,
     "name": "Rio Grande",
     "lat": -32.035,
     "lon": -52.0986,
-    "weather": "cloudy",
-    "temperature": 21,
+    "weather": "rain",
+    "temperature": 22,
     "feelsLike": 22,
     "rainfall": 0,
     "windSpeed": 31
@@ -71,10 +71,10 @@
     "lat": -28.263,
     "lon": -52.4069,
     "weather": "cloudy",
-    "temperature": 28,
-    "feelsLike": 27,
+    "temperature": 29,
+    "feelsLike": 28,
     "rainfall": 0,
-    "windSpeed": 22
+    "windSpeed": 17
   },
   {
     "id": 9,
@@ -82,7 +82,7 @@
     "lat": -29.335,
     "lon": -49.727,
     "weather": "cloudy",
-    "temperature": 30,
+    "temperature": 31,
     "feelsLike": 33,
     "rainfall": 0,
     "windSpeed": 17
@@ -115,10 +115,10 @@
     "lat": -31.331,
     "lon": -54.108,
     "weather": "rain",
-    "temperature": 20,
-    "feelsLike": 20,
+    "temperature": 21,
+    "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 22
+    "windSpeed": 26
   },
   {
     "id": 13,
@@ -181,8 +181,8 @@
     "lat": -30.852,
     "lon": -51.812,
     "weather": "cloudy",
-    "temperature": 28,
-    "feelsLike": 30,
+    "temperature": 29,
+    "feelsLike": 31,
     "rainfall": 0,
     "windSpeed": 15
   },
@@ -236,10 +236,10 @@
     "lat": -29.6869,
     "lon": -51.1314,
     "weather": "cloudy",
-    "temperature": 32,
-    "feelsLike": 35,
+    "temperature": 31,
+    "feelsLike": 34,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 16
   },
   {
     "id": 24,
@@ -324,7 +324,7 @@
     "lat": -29.3744,
     "lon": -50.8761,
     "weather": "sunny",
-    "temperature": 28,
+    "temperature": 29,
     "feelsLike": 28,
     "rainfall": 0,
     "windSpeed": 5
@@ -346,8 +346,8 @@
     "lat": -29.6508,
     "lon": -50.7819,
     "weather": "cloudy",
-    "temperature": 32,
-    "feelsLike": 34,
+    "temperature": 31,
+    "feelsLike": 33,
     "rainfall": 0,
     "windSpeed": 14
   },
@@ -357,8 +357,8 @@
     "lat": -29.1711,
     "lon": -51.5194,
     "weather": "cloudy",
-    "temperature": 27,
-    "feelsLike": 27,
+    "temperature": 28,
+    "feelsLike": 28,
     "rainfall": 0,
     "windSpeed": 10
   },
@@ -378,9 +378,9 @@
     "name": "Caçapava do Sul",
     "lat": -30.5122,
     "lon": -53.4914,
-    "weather": "rain",
+    "weather": "cloudy",
     "temperature": 24,
-    "feelsLike": 24,
+    "feelsLike": 25,
     "rainfall": 0,
     "windSpeed": 16
   },
@@ -389,10 +389,10 @@
     "name": "Dom Pedrito",
     "lat": -30.9833,
     "lon": -54.6739,
-    "weather": "rain",
+    "weather": "cloudy",
     "temperature": 23,
     "feelsLike": 23,
-    "rainfall": 1,
+    "rainfall": 0,
     "windSpeed": 19
   },
   {
@@ -402,7 +402,7 @@
     "lon": -56.5519,
     "weather": "cloudy",
     "temperature": 23,
-    "feelsLike": 23,
+    "feelsLike": 24,
     "rainfall": 0,
     "windSpeed": 21
   },
@@ -424,8 +424,8 @@
     "lon": -53.103,
     "weather": "rain",
     "temperature": 21,
-    "feelsLike": 21,
-    "rainfall": 1,
+    "feelsLike": 22,
+    "rainfall": 0,
     "windSpeed": 19
   },
   {
@@ -445,8 +445,8 @@
     "lat": -30.891,
     "lon": -55.533,
     "weather": "cloudy",
-    "temperature": 23,
-    "feelsLike": 24,
+    "temperature": 22,
+    "feelsLike": 23,
     "rainfall": 0,
     "windSpeed": 19
   },
@@ -468,7 +468,7 @@
     "lon": -53.933,
     "weather": "cloudy",
     "temperature": 30,
-    "feelsLike": 29,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 17
   },
@@ -478,7 +478,7 @@
     "lat": -28.818,
     "lon": -52.508,
     "weather": "cloudy",
-    "temperature": 28,
+    "temperature": 27,
     "feelsLike": 28,
     "rainfall": 0,
     "windSpeed": 17
@@ -512,7 +512,7 @@
     "lon": -50.919,
     "weather": "cloudy",
     "temperature": 28,
-    "feelsLike": 29,
+    "feelsLike": 30,
     "rainfall": 0,
     "windSpeed": 27
   },
@@ -522,8 +522,8 @@
     "lat": -29.466,
     "lon": -51.966,
     "weather": "cloudy",
-    "temperature": 33,
-    "feelsLike": 36,
+    "temperature": 32,
+    "feelsLike": 35,
     "rainfall": 0,
     "windSpeed": 17
   },
@@ -620,7 +620,7 @@
     "name": "São Lourenço do Sul",
     "lat": -31.365,
     "lon": -51.978,
-    "weather": "cloudy",
+    "weather": "rain",
     "temperature": 27,
     "feelsLike": 28,
     "rainfall": 0,
