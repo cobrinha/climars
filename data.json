@@ -6,9 +6,9 @@
     "lon": -51.2177,
     "weather": "sunny",
     "temperature": 32,
-    "feelsLike": 33,
+    "feelsLike": 32,
     "rainfall": 0,
-    "windSpeed": 24
+    "windSpeed": 30
   },
   {
     "id": 2,
@@ -60,10 +60,10 @@
     "lat": -32.035,
     "lon": -52.0986,
     "weather": "cloudy",
-    "temperature": 23,
-    "feelsLike": 23,
+    "temperature": 21,
+    "feelsLike": 22,
     "rainfall": 0,
-    "windSpeed": 29
+    "windSpeed": 31
   },
   {
     "id": 8,
@@ -85,18 +85,18 @@
     "temperature": 30,
     "feelsLike": 33,
     "rainfall": 0,
-    "windSpeed": 20
+    "windSpeed": 17
   },
   {
     "id": 10,
     "name": "Tramandaí",
     "lat": -29.985,
     "lon": -50.133,
-    "weather": "sunny",
+    "weather": "cloudy",
     "temperature": 31,
     "feelsLike": 33,
     "rainfall": 0,
-    "windSpeed": 3
+    "windSpeed": 1
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
     "temperature": 30,
     "feelsLike": 30,
     "rainfall": 0,
-    "windSpeed": 22
+    "windSpeed": 25
   },
   {
     "id": 14,
@@ -140,7 +140,7 @@
     "temperature": 29,
     "feelsLike": 30,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 15
   },
   {
     "id": 15,
@@ -151,7 +151,7 @@
     "temperature": 31,
     "feelsLike": 33,
     "rainfall": 0,
-    "windSpeed": 18
+    "windSpeed": 19
   },
   {
     "id": 16,
@@ -162,7 +162,7 @@
     "temperature": 31,
     "feelsLike": 32,
     "rainfall": 0,
-    "windSpeed": 21
+    "windSpeed": 22
   },
   {
     "id": 17,
@@ -171,9 +171,9 @@
     "lon": -51.728,
     "weather": "cloudy",
     "temperature": 31,
-    "feelsLike": 33,
+    "feelsLike": 32,
     "rainfall": 0,
-    "windSpeed": 18
+    "windSpeed": 19
   },
   {
     "id": 18,
@@ -192,10 +192,10 @@
     "lat": -32.5661,
     "lon": -53.3758,
     "weather": "cloudy",
-    "temperature": 20,
-    "feelsLike": 21,
+    "temperature": 18,
+    "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 32
+    "windSpeed": 17
   },
   {
     "id": 20,
@@ -206,7 +206,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 15
   },
   {
     "id": 21,
@@ -214,21 +214,21 @@
     "lat": -30.2586,
     "lon": -54.9139,
     "weather": "cloudy",
-    "temperature": 23,
-    "feelsLike": 23,
+    "temperature": 24,
+    "feelsLike": 24,
     "rainfall": 0,
-    "windSpeed": 21
+    "windSpeed": 19
   },
   {
     "id": 22,
     "name": "São Gabriel",
     "lat": -30.3392,
     "lon": -54.3203,
-    "weather": "rain",
-    "temperature": 25,
+    "weather": "cloudy",
+    "temperature": 24,
     "feelsLike": 25,
     "rainfall": 0,
-    "windSpeed": 27
+    "windSpeed": 19
   },
   {
     "id": 23,
@@ -237,9 +237,9 @@
     "lon": -51.1314,
     "weather": "cloudy",
     "temperature": 32,
-    "feelsLike": 34,
+    "feelsLike": 35,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 11
   },
   {
     "id": 24,
@@ -250,25 +250,25 @@
     "temperature": 23,
     "feelsLike": 23,
     "rainfall": 0,
-    "windSpeed": 24
+    "windSpeed": 16
   },
   {
     "id": 25,
     "name": "Cidreira",
     "lat": -30.1811,
     "lon": -50.2056,
-    "weather": "sunny",
-    "temperature": 31,
-    "feelsLike": 32,
+    "weather": "cloudy",
+    "temperature": 30,
+    "feelsLike": 33,
     "rainfall": 0,
-    "windSpeed": 4
+    "windSpeed": 0
   },
   {
     "id": 26,
     "name": "Capão da Canoa",
     "lat": -29.7428,
     "lon": -50.0097,
-    "weather": "sunny",
+    "weather": "cloudy",
     "temperature": 30,
     "feelsLike": 33,
     "rainfall": 0,
@@ -283,7 +283,7 @@
     "temperature": 25,
     "feelsLike": 25,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 16
   },
   {
     "id": 28,
@@ -294,7 +294,7 @@
     "temperature": 26,
     "feelsLike": 26,
     "rainfall": 0,
-    "windSpeed": 17
+    "windSpeed": 19
   },
   {
     "id": 29,
@@ -302,10 +302,10 @@
     "lat": -27.3592,
     "lon": -53.395,
     "weather": "cloudy",
-    "temperature": 29,
+    "temperature": 30,
     "feelsLike": 29,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 10
   },
   {
     "id": 30,
@@ -327,18 +327,18 @@
     "temperature": 27,
     "feelsLike": 27,
     "rainfall": 0,
-    "windSpeed": 3
+    "windSpeed": 11
   },
   {
     "id": 32,
     "name": "São Francisco de Paula",
     "lat": -29.4478,
     "lon": -50.5828,
-    "weather": "sunny",
+    "weather": "cloudy",
     "temperature": 26,
     "feelsLike": 26,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 15
   },
   {
     "id": 33,
@@ -349,7 +349,7 @@
     "temperature": 31,
     "feelsLike": 33,
     "rainfall": 0,
-    "windSpeed": 17
+    "windSpeed": 14
   },
   {
     "id": 35,
@@ -357,8 +357,8 @@
     "lat": -29.1711,
     "lon": -51.5194,
     "weather": "cloudy",
-    "temperature": 27,
-    "feelsLike": 28,
+    "temperature": 26,
+    "feelsLike": 26,
     "rainfall": 0,
     "windSpeed": 6
   },
@@ -371,18 +371,18 @@
     "temperature": 30,
     "feelsLike": 31,
     "rainfall": 0,
-    "windSpeed": 23
+    "windSpeed": 19
   },
   {
     "id": 37,
     "name": "Caçapava do Sul",
     "lat": -30.5122,
     "lon": -53.4914,
-    "weather": "rain",
-    "temperature": 26,
-    "feelsLike": 26,
+    "weather": "cloudy",
+    "temperature": 24,
+    "feelsLike": 24,
     "rainfall": 0,
-    "windSpeed": 19
+    "windSpeed": 16
   },
   {
     "id": 38,
@@ -390,10 +390,10 @@
     "lat": -30.9833,
     "lon": -54.6739,
     "weather": "rain",
-    "temperature": 22,
+    "temperature": 23,
     "feelsLike": 23,
     "rainfall": 1,
-    "windSpeed": 18
+    "windSpeed": 19
   },
   {
     "id": 39,
@@ -401,10 +401,10 @@
     "lat": -29.1242,
     "lon": -56.5519,
     "weather": "cloudy",
-    "temperature": 25,
-    "feelsLike": 25,
+    "temperature": 23,
+    "feelsLike": 23,
     "rainfall": 0,
-    "windSpeed": 28
+    "windSpeed": 21
   },
   {
     "id": 40,
@@ -412,10 +412,10 @@
     "lat": -29.1931,
     "lon": -54.8675,
     "weather": "cloudy",
-    "temperature": 27,
-    "feelsLike": 27,
+    "temperature": 26,
+    "feelsLike": 26,
     "rainfall": 0,
-    "windSpeed": 18
+    "windSpeed": 10
   },
   {
     "id": 41,
@@ -423,21 +423,21 @@
     "lat": -31.448,
     "lon": -53.103,
     "weather": "rain",
-    "temperature": 22,
-    "feelsLike": 22,
+    "temperature": 21,
+    "feelsLike": 21,
     "rainfall": 1,
-    "windSpeed": 17
+    "windSpeed": 19
   },
   {
     "id": 42,
     "name": "Quaraí",
     "lat": -30.386,
     "lon": -56.452,
-    "weather": "cloudy",
-    "temperature": 22,
-    "feelsLike": 22,
+    "weather": "rain",
+    "temperature": 24,
+    "feelsLike": 24,
     "rainfall": 0,
-    "windSpeed": 19
+    "windSpeed": 20
   },
   {
     "id": 43,
@@ -447,7 +447,7 @@
     "weather": "rain",
     "temperature": 22,
     "feelsLike": 23,
-    "rainfall": 2,
+    "rainfall": 1,
     "windSpeed": 20
   },
   {
@@ -459,7 +459,7 @@
     "temperature": 31,
     "feelsLike": 30,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 18
   },
   {
     "id": 45,
@@ -470,7 +470,7 @@
     "temperature": 30,
     "feelsLike": 29,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 17
   },
   {
     "id": 46,
@@ -479,9 +479,9 @@
     "lon": -52.508,
     "weather": "cloudy",
     "temperature": 27,
-    "feelsLike": 27,
+    "feelsLike": 28,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 17
   },
   {
     "id": 47,
@@ -489,10 +489,10 @@
     "lat": -28.408,
     "lon": -54.96,
     "weather": "cloudy",
-    "temperature": 29,
-    "feelsLike": 30,
+    "temperature": 28,
+    "feelsLike": 29,
     "rainfall": 0,
-    "windSpeed": 18
+    "windSpeed": 15
   },
   {
     "id": 48,
@@ -500,10 +500,10 @@
     "lat": -30.543,
     "lon": -52.522,
     "weather": "cloudy",
-    "temperature": 28,
-    "feelsLike": 29,
+    "temperature": 26,
+    "feelsLike": 26,
     "rainfall": 0,
-    "windSpeed": 22
+    "windSpeed": 16
   },
   {
     "id": 49,
@@ -514,7 +514,7 @@
     "temperature": 28,
     "feelsLike": 29,
     "rainfall": 0,
-    "windSpeed": 18
+    "windSpeed": 27
   },
   {
     "id": 50,
@@ -522,10 +522,10 @@
     "lat": -29.466,
     "lon": -51.966,
     "weather": "cloudy",
-    "temperature": 33,
+    "temperature": 32,
     "feelsLike": 37,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 17
   },
   {
     "id": 51,
@@ -534,9 +534,9 @@
     "lon": -51.86,
     "weather": "cloudy",
     "temperature": 32,
-    "feelsLike": 34,
+    "feelsLike": 33,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 19
   },
   {
     "id": 52,
@@ -544,10 +544,10 @@
     "lat": -29.4214,
     "lon": -53.0278,
     "weather": "cloudy",
-    "temperature": 29,
+    "temperature": 28,
     "feelsLike": 29,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 11
   },
   {
     "id": 53,
@@ -558,7 +558,7 @@
     "temperature": 28,
     "feelsLike": 28,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 14
   },
   {
     "id": 54,
@@ -566,10 +566,10 @@
     "lat": -29.6894,
     "lon": -51.4606,
     "weather": "cloudy",
-    "temperature": 30,
-    "feelsLike": 32,
+    "temperature": 31,
+    "feelsLike": 34,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 14
   },
   {
     "id": 55,
@@ -577,10 +577,10 @@
     "lat": -31.865,
     "lon": -54.165,
     "weather": "cloudy",
-    "temperature": 22,
-    "feelsLike": 22,
+    "temperature": 21,
+    "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 29
+    "windSpeed": 24
   },
   {
     "id": 56,
@@ -589,9 +589,9 @@
     "lon": -53.606,
     "weather": "cloudy",
     "temperature": 28,
-    "feelsLike": 28,
+    "feelsLike": 29,
     "rainfall": 0,
-    "windSpeed": 22
+    "windSpeed": 26
   },
   {
     "id": 57,
@@ -613,7 +613,7 @@
     "temperature": 27,
     "feelsLike": 27,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 15
   },
   {
     "id": 59,
@@ -624,18 +624,18 @@
     "temperature": 27,
     "feelsLike": 28,
     "rainfall": 0,
-    "windSpeed": 23
+    "windSpeed": 22
   },
   {
     "id": 60,
     "name": "Arroio do Sal",
     "lat": -29.551,
     "lon": -49.886,
-    "weather": "sunny",
+    "weather": "cloudy",
     "temperature": 30,
     "feelsLike": 33,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 18
   },
   {
     "id": 61,
@@ -643,20 +643,20 @@
     "lat": -30.155,
     "lon": -50.513,
     "weather": "sunny",
-    "temperature": 31,
+    "temperature": 32,
     "feelsLike": 33,
     "rainfall": 0,
-    "windSpeed": 24
+    "windSpeed": 21
   },
   {
     "id": 62,
     "name": "Águas Claras",
     "lat": -30.0913,
     "lon": -50.7891,
-    "weather": "sunny",
+    "weather": "cloudy",
     "temperature": 31,
     "feelsLike": 32,
     "rainfall": 0,
-    "windSpeed": 21
+    "windSpeed": 18
   }
 ]
