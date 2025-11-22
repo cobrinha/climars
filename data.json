@@ -104,10 +104,10 @@
     "lat": -27.635,
     "lon": -52.274,
     "weather": "cloudy",
-    "temperature": 19,
-    "feelsLike": 19,
+    "temperature": 20,
+    "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 9
   },
   {
     "id": 12,
@@ -115,10 +115,10 @@
     "lat": -31.331,
     "lon": -54.108,
     "weather": "cloudy",
-    "temperature": 16,
-    "feelsLike": 15,
+    "temperature": 17,
+    "feelsLike": 16,
     "rainfall": 0,
-    "windSpeed": 17
+    "windSpeed": 20
   },
   {
     "id": 13,
@@ -191,11 +191,11 @@
     "name": "Jaguarão",
     "lat": -32.5661,
     "lon": -53.3758,
-    "weather": "sunny",
-    "temperature": 18,
-    "feelsLike": 17,
+    "weather": "cloudy",
+    "temperature": 19,
+    "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 16
   },
   {
     "id": 20,
@@ -313,10 +313,10 @@
     "lat": -27.8986,
     "lon": -53.3139,
     "weather": "cloudy",
-    "temperature": 19,
-    "feelsLike": 19,
+    "temperature": 21,
+    "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 14
   },
   {
     "id": 31,
@@ -357,8 +357,8 @@
     "lat": -29.1711,
     "lon": -51.5194,
     "weather": "cloudy",
-    "temperature": 16,
-    "feelsLike": 16,
+    "temperature": 17,
+    "feelsLike": 17,
     "rainfall": 0,
     "windSpeed": 5
   },
@@ -489,10 +489,10 @@
     "lat": -28.408,
     "lon": -54.96,
     "weather": "cloudy",
-    "temperature": 19,
-    "feelsLike": 19,
+    "temperature": 20,
+    "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 19
+    "windSpeed": 18
   },
   {
     "id": 48,
@@ -566,7 +566,7 @@
     "lat": -29.6894,
     "lon": -51.4606,
     "weather": "cloudy",
-    "temperature": 19,
+    "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 5
