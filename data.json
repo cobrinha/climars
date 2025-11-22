@@ -5,7 +5,7 @@
     "lat": -30.0346,
     "lon": -51.2177,
     "weather": "cloudy",
-    "temperature": 21,
+    "temperature": 20,
     "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 17
@@ -59,11 +59,11 @@
     "name": "Rio Grande",
     "lat": -32.035,
     "lon": -52.0986,
-    "weather": "cloudy",
+    "weather": "sunny",
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 29
+    "windSpeed": 26
   },
   {
     "id": 8,
@@ -74,7 +74,7 @@
     "temperature": 18,
     "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 19
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "temperature": 21,
     "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 20
   },
   {
     "id": 11,
@@ -105,7 +105,7 @@
     "lon": -52.274,
     "weather": "cloudy",
     "temperature": 17,
-    "feelsLike": 18,
+    "feelsLike": 17,
     "rainfall": 0,
     "windSpeed": 12
   },
@@ -225,10 +225,10 @@
     "lat": -30.3392,
     "lon": -54.3203,
     "weather": "cloudy",
-    "temperature": 17,
+    "temperature": 16,
     "feelsLike": 16,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 14
   },
   {
     "id": 23,
@@ -239,7 +239,7 @@
     "temperature": 21,
     "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 10
+    "windSpeed": 8
   },
   {
     "id": 24,
@@ -294,7 +294,7 @@
     "temperature": 16,
     "feelsLike": 16,
     "rainfall": 0,
-    "windSpeed": 9
+    "windSpeed": 11
   },
   {
     "id": 29,
@@ -324,10 +324,10 @@
     "lat": -29.3744,
     "lon": -50.8761,
     "weather": "cloudy",
-    "temperature": 16,
-    "feelsLike": 17,
+    "temperature": 15,
+    "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 3
   },
   {
     "id": 32,
@@ -357,10 +357,10 @@
     "lat": -29.1711,
     "lon": -51.5194,
     "weather": "cloudy",
-    "temperature": 18,
-    "feelsLike": 18,
+    "temperature": 16,
+    "feelsLike": 16,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 10
   },
   {
     "id": 36,
@@ -402,7 +402,7 @@
     "lon": -56.5519,
     "weather": "sunny",
     "temperature": 17,
-    "feelsLike": 18,
+    "feelsLike": 17,
     "rainfall": 0,
     "windSpeed": 14
   },
@@ -512,7 +512,7 @@
     "lon": -50.919,
     "weather": "cloudy",
     "temperature": 19,
-    "feelsLike": 20,
+    "feelsLike": 19,
     "rainfall": 0,
     "windSpeed": 24
   },
@@ -523,7 +523,7 @@
     "lon": -51.966,
     "weather": "cloudy",
     "temperature": 20,
-    "feelsLike": 21,
+    "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 10
   },
@@ -569,7 +569,7 @@
     "temperature": 19,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 9
   },
   {
     "id": 55,
@@ -591,7 +591,7 @@
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 18
+    "windSpeed": 19
   },
   {
     "id": 57,
@@ -643,7 +643,7 @@
     "lat": -30.155,
     "lon": -50.513,
     "weather": "cloudy",
-    "temperature": 21,
+    "temperature": 20,
     "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 16
