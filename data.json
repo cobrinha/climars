@@ -19,7 +19,7 @@
     "temperature": 21,
     "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 9
+    "windSpeed": 8
   },
   {
     "id": 3,
@@ -71,10 +71,10 @@
     "lat": -28.263,
     "lon": -52.4069,
     "weather": "cloudy",
-    "temperature": 21,
-    "feelsLike": 21,
+    "temperature": 23,
+    "feelsLike": 23,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 9
   },
   {
     "id": 9,
@@ -82,10 +82,10 @@
     "lat": -29.335,
     "lon": -49.727,
     "weather": "cloudy",
-    "temperature": 24,
+    "temperature": 23,
     "feelsLike": 24,
     "rainfall": 0,
-    "windSpeed": 26
+    "windSpeed": 25
   },
   {
     "id": 10,
@@ -93,7 +93,7 @@
     "lat": -29.985,
     "lon": -50.133,
     "weather": "cloudy",
-    "temperature": 23,
+    "temperature": 22,
     "feelsLike": 23,
     "rainfall": 0,
     "windSpeed": 16
@@ -324,8 +324,8 @@
     "lat": -29.3744,
     "lon": -50.8761,
     "weather": "cloudy",
-    "temperature": 19,
-    "feelsLike": 19,
+    "temperature": 18,
+    "feelsLike": 18,
     "rainfall": 0,
     "windSpeed": 5
   },
@@ -335,7 +335,7 @@
     "lat": -29.4478,
     "lon": -50.5828,
     "weather": "cloudy",
-    "temperature": 19,
+    "temperature": 18,
     "feelsLike": 19,
     "rainfall": 0,
     "windSpeed": 7
@@ -346,7 +346,7 @@
     "lat": -29.6508,
     "lon": -50.7819,
     "weather": "cloudy",
-    "temperature": 22,
+    "temperature": 21,
     "feelsLike": 22,
     "rainfall": 0,
     "windSpeed": 6
@@ -369,7 +369,7 @@
     "lon": -52.8942,
     "weather": "cloudy",
     "temperature": 21,
-    "feelsLike": 22,
+    "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 12
   },
@@ -411,7 +411,7 @@
     "name": "Santiago",
     "lat": -29.1931,
     "lon": -54.8675,
-    "weather": "cloudy",
+    "weather": "rain",
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
@@ -445,8 +445,8 @@
     "lat": -30.891,
     "lon": -55.533,
     "weather": "cloudy",
-    "temperature": 22,
-    "feelsLike": 23,
+    "temperature": 23,
+    "feelsLike": 24,
     "rainfall": 0,
     "windSpeed": 15
   },
@@ -479,7 +479,7 @@
     "lon": -52.508,
     "weather": "cloudy",
     "temperature": 19,
-    "feelsLike": 20,
+    "feelsLike": 19,
     "rainfall": 0,
     "windSpeed": 14
   },
@@ -489,10 +489,10 @@
     "lat": -28.408,
     "lon": -54.96,
     "weather": "cloudy",
-    "temperature": 22,
-    "feelsLike": 22,
+    "temperature": 21,
+    "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 17
+    "windSpeed": 14
   },
   {
     "id": 48,
@@ -567,7 +567,7 @@
     "lon": -51.4606,
     "weather": "cloudy",
     "temperature": 23,
-    "feelsLike": 24,
+    "feelsLike": 23,
     "rainfall": 0,
     "windSpeed": 12
   },
@@ -600,7 +600,7 @@
     "lon": -53.843,
     "weather": "cloudy",
     "temperature": 19,
-    "feelsLike": 20,
+    "feelsLike": 19,
     "rainfall": 0,
     "windSpeed": 19
   },
