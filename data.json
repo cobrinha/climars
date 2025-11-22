@@ -5,10 +5,10 @@
     "lat": -30.0346,
     "lon": -51.2177,
     "weather": "cloudy",
-    "temperature": 19,
-    "feelsLike": 19,
+    "temperature": 20,
+    "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 17
   },
   {
     "id": 2,
@@ -104,10 +104,10 @@
     "lat": -27.635,
     "lon": -52.274,
     "weather": "cloudy",
-    "temperature": 18,
-    "feelsLike": 18,
+    "temperature": 19,
+    "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 10
+    "windSpeed": 8
   },
   {
     "id": 12,
@@ -115,10 +115,10 @@
     "lat": -31.331,
     "lon": -54.108,
     "weather": "cloudy",
-    "temperature": 13,
-    "feelsLike": 13,
+    "temperature": 14,
+    "feelsLike": 14,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 19
   },
   {
     "id": 13,
@@ -148,10 +148,10 @@
     "lat": -29.717,
     "lon": -52.427,
     "weather": "cloudy",
-    "temperature": 20,
+    "temperature": 19,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 7
   },
   {
     "id": 16,
@@ -191,11 +191,11 @@
     "name": "Jaguarão",
     "lat": -32.5661,
     "lon": -53.3758,
-    "weather": "cloudy",
-    "temperature": 16,
-    "feelsLike": 15,
+    "weather": "sunny",
+    "temperature": 18,
+    "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 10
+    "windSpeed": 14
   },
   {
     "id": 20,
@@ -239,7 +239,7 @@
     "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 6
   },
   {
     "id": 24,
@@ -259,7 +259,7 @@
     "lon": -50.2056,
     "weather": "cloudy",
     "temperature": 20,
-    "feelsLike": 20,
+    "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 16
   },
@@ -270,7 +270,7 @@
     "lon": -50.0097,
     "weather": "cloudy",
     "temperature": 20,
-    "feelsLike": 20,
+    "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 10
   },
@@ -291,8 +291,8 @@
     "lat": -28.5128,
     "lon": -50.9331,
     "weather": "cloudy",
-    "temperature": 15,
-    "feelsLike": 15,
+    "temperature": 16,
+    "feelsLike": 16,
     "rainfall": 0,
     "windSpeed": 8
   },
@@ -327,7 +327,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 2
+    "windSpeed": 4
   },
   {
     "id": 32,
@@ -336,7 +336,7 @@
     "lon": -50.5828,
     "weather": "cloudy",
     "temperature": 15,
-    "feelsLike": 14,
+    "feelsLike": 15,
     "rainfall": 0,
     "windSpeed": 5
   },
@@ -347,9 +347,9 @@
     "lon": -50.7819,
     "weather": "cloudy",
     "temperature": 18,
-    "feelsLike": 18,
+    "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 4
+    "windSpeed": 3
   },
   {
     "id": 35,
@@ -360,7 +360,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 2
   },
   {
     "id": 36,
@@ -445,8 +445,8 @@
     "lat": -30.891,
     "lon": -55.533,
     "weather": "sunny",
-    "temperature": 15,
-    "feelsLike": 14,
+    "temperature": 17,
+    "feelsLike": 17,
     "rainfall": 0,
     "windSpeed": 17
   },
@@ -522,8 +522,8 @@
     "lat": -29.466,
     "lon": -51.966,
     "weather": "cloudy",
-    "temperature": 19,
-    "feelsLike": 19,
+    "temperature": 20,
+    "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 6
   },
@@ -567,7 +567,7 @@
     "lon": -51.4606,
     "weather": "cloudy",
     "temperature": 19,
-    "feelsLike": 19,
+    "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 4
   },
@@ -611,7 +611,7 @@
     "lon": -51.525,
     "weather": "cloudy",
     "temperature": 16,
-    "feelsLike": 16,
+    "feelsLike": 17,
     "rainfall": 0,
     "windSpeed": 9
   },
@@ -655,7 +655,7 @@
     "lon": -50.7891,
     "weather": "cloudy",
     "temperature": 20,
-    "feelsLike": 20,
+    "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 10
   }
