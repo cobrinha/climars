@@ -19,7 +19,7 @@
     "temperature": 14,
     "feelsLike": 14,
     "rainfall": 0,
-    "windSpeed": 6
+    "windSpeed": 5
   },
   {
     "id": 3,
@@ -41,7 +41,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 10
+    "windSpeed": 9
   },
   {
     "id": 6,
@@ -74,7 +74,7 @@
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 14
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 12
+    "windSpeed": 8
   },
   {
     "id": 11,
@@ -105,9 +105,9 @@
     "lon": -52.274,
     "weather": "cloudy",
     "temperature": 15,
-    "feelsLike": 16,
+    "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 9
+    "windSpeed": 7
   },
   {
     "id": 12,
@@ -162,7 +162,7 @@
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 7
   },
   {
     "id": 17,
@@ -170,7 +170,7 @@
     "lat": -30.078,
     "lon": -51.728,
     "weather": "cloudy",
-    "temperature": 20,
+    "temperature": 19,
     "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 8
@@ -236,10 +236,10 @@
     "lat": -29.6869,
     "lon": -51.1314,
     "weather": "cloudy",
-    "temperature": 20,
-    "feelsLike": 20,
+    "temperature": 19,
+    "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 3
   },
   {
     "id": 24,
@@ -294,7 +294,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 11
+    "windSpeed": 8
   },
   {
     "id": 29,
@@ -327,7 +327,7 @@
     "temperature": 14,
     "feelsLike": 14,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 4
   },
   {
     "id": 32,
@@ -347,7 +347,7 @@
     "lon": -50.7819,
     "weather": "cloudy",
     "temperature": 18,
-    "feelsLike": 19,
+    "feelsLike": 18,
     "rainfall": 0,
     "windSpeed": 4
   },
@@ -360,7 +360,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 3
+    "windSpeed": 5
   },
   {
     "id": 36,
@@ -389,11 +389,11 @@
     "name": "Dom Pedrito",
     "lat": -30.9833,
     "lon": -54.6739,
-    "weather": "cloudy",
-    "temperature": 14,
+    "weather": "sunny",
+    "temperature": 13,
     "feelsLike": 13,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 12
   },
   {
     "id": 39,
@@ -588,10 +588,10 @@
     "lat": -28.638,
     "lon": -53.606,
     "weather": "cloudy",
-    "temperature": 17,
-    "feelsLike": 17,
+    "temperature": 16,
+    "feelsLike": 16,
     "rainfall": 0,
-    "windSpeed": 21
+    "windSpeed": 20
   },
   {
     "id": 57,
@@ -643,7 +643,7 @@
     "lat": -30.155,
     "lon": -50.513,
     "weather": "cloudy",
-    "temperature": 20,
+    "temperature": 19,
     "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 9
