@@ -16,8 +16,8 @@
     "lat": -29.1678,
     "lon": -51.1794,
     "weather": "cloudy",
-    "temperature": 19,
-    "feelsLike": 19,
+    "temperature": 18,
+    "feelsLike": 18,
     "rainfall": 0,
     "windSpeed": 8
   },
@@ -82,10 +82,10 @@
     "lat": -29.335,
     "lon": -49.727,
     "weather": "cloudy",
-    "temperature": 23,
+    "temperature": 22,
     "feelsLike": 23,
     "rainfall": 0,
-    "windSpeed": 30
+    "windSpeed": 28
   },
   {
     "id": 10,
@@ -149,7 +149,7 @@
     "lon": -52.427,
     "weather": "cloudy",
     "temperature": 21,
-    "feelsLike": 22,
+    "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 10
   },
@@ -159,8 +159,8 @@
     "lat": -30.188,
     "lon": -52.373,
     "weather": "cloudy",
-    "temperature": 21,
-    "feelsLike": 21,
+    "temperature": 20,
+    "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 9
   },
@@ -171,7 +171,7 @@
     "lon": -51.728,
     "weather": "cloudy",
     "temperature": 21,
-    "feelsLike": 22,
+    "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 11
   },
@@ -181,7 +181,7 @@
     "lat": -30.852,
     "lon": -51.812,
     "weather": "cloudy",
-    "temperature": 20,
+    "temperature": 19,
     "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 13
@@ -236,8 +236,8 @@
     "lat": -29.6869,
     "lon": -51.1314,
     "weather": "cloudy",
-    "temperature": 21,
-    "feelsLike": 21,
+    "temperature": 20,
+    "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 7
   },
@@ -246,7 +246,7 @@
     "name": "Alegrete",
     "lat": -29.7828,
     "lon": -55.7919,
-    "weather": "rain",
+    "weather": "sunny",
     "temperature": 18,
     "feelsLike": 18,
     "rainfall": 0,
@@ -258,7 +258,7 @@
     "lat": -30.1811,
     "lon": -50.2056,
     "weather": "cloudy",
-    "temperature": 22,
+    "temperature": 21,
     "feelsLike": 22,
     "rainfall": 0,
     "windSpeed": 18
@@ -280,7 +280,7 @@
     "lat": -28.6675,
     "lon": -50.4183,
     "weather": "cloudy",
-    "temperature": 17,
+    "temperature": 16,
     "feelsLike": 17,
     "rainfall": 0,
     "windSpeed": 5
@@ -324,10 +324,10 @@
     "lat": -29.3744,
     "lon": -50.8761,
     "weather": "cloudy",
-    "temperature": 17,
+    "temperature": 16,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 3
+    "windSpeed": 6
   },
   {
     "id": 32,
@@ -369,7 +369,7 @@
     "lon": -52.8942,
     "weather": "cloudy",
     "temperature": 19,
-    "feelsLike": 20,
+    "feelsLike": 19,
     "rainfall": 0,
     "windSpeed": 12
   },
@@ -411,7 +411,7 @@
     "name": "Santiago",
     "lat": -29.1931,
     "lon": -54.8675,
-    "weather": "rain",
+    "weather": "cloudy",
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
@@ -445,8 +445,8 @@
     "lat": -30.891,
     "lon": -55.533,
     "weather": "cloudy",
-    "temperature": 20,
-    "feelsLike": 21,
+    "temperature": 22,
+    "feelsLike": 22,
     "rainfall": 0,
     "windSpeed": 14
   },
@@ -455,11 +455,11 @@
     "name": "Santa Rosa",
     "lat": -27.869,
     "lon": -54.481,
-    "weather": "sunny",
-    "temperature": 21,
+    "weather": "cloudy",
+    "temperature": 20,
     "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 11
   },
   {
     "id": 45,
@@ -478,7 +478,7 @@
     "lat": -28.818,
     "lon": -52.508,
     "weather": "cloudy",
-    "temperature": 18,
+    "temperature": 17,
     "feelsLike": 18,
     "rainfall": 0,
     "windSpeed": 11
@@ -566,8 +566,8 @@
     "lat": -29.6894,
     "lon": -51.4606,
     "weather": "cloudy",
-    "temperature": 21,
-    "feelsLike": 21,
+    "temperature": 20,
+    "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 8
   },
@@ -611,7 +611,7 @@
     "lon": -51.525,
     "weather": "cloudy",
     "temperature": 18,
-    "feelsLike": 19,
+    "feelsLike": 18,
     "rainfall": 0,
     "windSpeed": 14
   },
@@ -633,7 +633,7 @@
     "lon": -49.886,
     "weather": "cloudy",
     "temperature": 22,
-    "feelsLike": 23,
+    "feelsLike": 22,
     "rainfall": 0,
     "windSpeed": 26
   },
@@ -654,7 +654,7 @@
     "lat": -30.0913,
     "lon": -50.7891,
     "weather": "cloudy",
-    "temperature": 22,
+    "temperature": 21,
     "feelsLike": 22,
     "rainfall": 0,
     "windSpeed": 12
