@@ -38,10 +38,10 @@
     "lat": -29.6842,
     "lon": -53.8069,
     "weather": "cloudy",
-    "temperature": 16,
-    "feelsLike": 16,
+    "temperature": 15,
+    "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 12
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "temperature": 16,
     "feelsLike": 16,
     "rainfall": 0,
-    "windSpeed": 24
+    "windSpeed": 22
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "temperature": 21,
     "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 23
+    "windSpeed": 17
   },
   {
     "id": 10,
@@ -93,10 +93,10 @@
     "lat": -29.985,
     "lon": -50.133,
     "weather": "cloudy",
-    "temperature": 20,
+    "temperature": 19,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 12
   },
   {
     "id": 11,
@@ -129,18 +129,18 @@
     "temperature": 18,
     "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 17
+    "windSpeed": 16
   },
   {
     "id": 14,
     "name": "São Borja",
     "lat": -28.661,
     "lon": -56.004,
-    "weather": "cloudy",
+    "weather": "sunny",
     "temperature": 18,
     "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 17
   },
   {
     "id": 15,
@@ -151,7 +151,7 @@
     "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 6
   },
   {
     "id": 16,
@@ -162,7 +162,7 @@
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 6
+    "windSpeed": 8
   },
   {
     "id": 17,
@@ -173,7 +173,7 @@
     "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 10
   },
   {
     "id": 18,
@@ -184,7 +184,7 @@
     "temperature": 18,
     "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 7
+    "windSpeed": 8
   },
   {
     "id": 19,
@@ -206,7 +206,7 @@
     "temperature": 14,
     "feelsLike": 13,
     "rainfall": 0,
-    "windSpeed": 11
+    "windSpeed": 10
   },
   {
     "id": 21,
@@ -217,7 +217,7 @@
     "temperature": 14,
     "feelsLike": 14,
     "rainfall": 0,
-    "windSpeed": 11
+    "windSpeed": 12
   },
   {
     "id": 22,
@@ -239,18 +239,18 @@
     "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 5
   },
   {
     "id": 24,
     "name": "Alegrete",
     "lat": -29.7828,
     "lon": -55.7919,
-    "weather": "rain",
+    "weather": "sunny",
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 14
   },
   {
     "id": 25,
@@ -261,7 +261,7 @@
     "temperature": 19,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 14
   },
   {
     "id": 26,
@@ -272,7 +272,7 @@
     "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 17
+    "windSpeed": 15
   },
   {
     "id": 27,
@@ -305,7 +305,7 @@
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 7
   },
   {
     "id": 30,
@@ -360,7 +360,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 8
   },
   {
     "id": 36,
@@ -368,10 +368,10 @@
     "lat": -30.0394,
     "lon": -52.8942,
     "weather": "cloudy",
-    "temperature": 17,
+    "temperature": 16,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 7
+    "windSpeed": 9
   },
   {
     "id": 37,
@@ -380,9 +380,9 @@
     "lon": -53.4914,
     "weather": "cloudy",
     "temperature": 13,
-    "feelsLike": 13,
+    "feelsLike": 12,
     "rainfall": 0,
-    "windSpeed": 7
+    "windSpeed": 8
   },
   {
     "id": 38,
@@ -390,10 +390,10 @@
     "lat": -30.9833,
     "lon": -54.6739,
     "weather": "cloudy",
-    "temperature": 15,
-    "feelsLike": 15,
+    "temperature": 14,
+    "feelsLike": 14,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 13
   },
   {
     "id": 39,
@@ -426,7 +426,7 @@
     "temperature": 12,
     "feelsLike": 11,
     "rainfall": 0,
-    "windSpeed": 6
+    "windSpeed": 7
   },
   {
     "id": 42,
@@ -437,7 +437,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 15
   },
   {
     "id": 43,
@@ -445,10 +445,10 @@
     "lat": -30.891,
     "lon": -55.533,
     "weather": "cloudy",
-    "temperature": 17,
-    "feelsLike": 17,
+    "temperature": 15,
+    "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 12
   },
   {
     "id": 44,
@@ -459,7 +459,7 @@
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 10
+    "windSpeed": 11
   },
   {
     "id": 45,
@@ -470,7 +470,7 @@
     "temperature": 18,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 6
+    "windSpeed": 7
   },
   {
     "id": 46,
@@ -492,7 +492,7 @@
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 16
   },
   {
     "id": 48,
@@ -514,7 +514,7 @@
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 20
+    "windSpeed": 21
   },
   {
     "id": 50,
@@ -525,7 +525,7 @@
     "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 7
   },
   {
     "id": 51,
@@ -547,7 +547,7 @@
     "temperature": 16,
     "feelsLike": 16,
     "rainfall": 0,
-    "windSpeed": 11
+    "windSpeed": 10
   },
   {
     "id": 53,
@@ -569,7 +569,7 @@
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 7
+    "windSpeed": 6
   },
   {
     "id": 55,
@@ -580,7 +580,7 @@
     "temperature": 12,
     "feelsLike": 11,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 14
   },
   {
     "id": 56,
@@ -591,7 +591,7 @@
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 22
+    "windSpeed": 21
   },
   {
     "id": 57,
@@ -624,7 +624,7 @@
     "temperature": 18,
     "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 19
+    "windSpeed": 20
   },
   {
     "id": 60,
@@ -635,7 +635,7 @@
     "temperature": 20,
     "feelsLike": 21,
     "rainfall": 0,
-    "windSpeed": 23
+    "windSpeed": 17
   },
   {
     "id": 61,
@@ -643,10 +643,10 @@
     "lat": -30.155,
     "lon": -50.513,
     "weather": "cloudy",
-    "temperature": 20,
+    "temperature": 19,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 12
+    "windSpeed": 11
   },
   {
     "id": 62,
