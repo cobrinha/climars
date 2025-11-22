@@ -60,10 +60,10 @@
     "lat": -32.035,
     "lon": -52.0986,
     "weather": "cloudy",
-    "temperature": 20,
-    "feelsLike": 20,
+    "temperature": 22,
+    "feelsLike": 22,
     "rainfall": 0,
-    "windSpeed": 22
+    "windSpeed": 20
   },
   {
     "id": 8,
@@ -71,10 +71,10 @@
     "lat": -28.263,
     "lon": -52.4069,
     "weather": "cloudy",
-    "temperature": 21,
-    "feelsLike": 21,
+    "temperature": 24,
+    "feelsLike": 25,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 16
   },
   {
     "id": 9,
@@ -83,7 +83,7 @@
     "lon": -49.727,
     "weather": "cloudy",
     "temperature": 21,
-    "feelsLike": 22,
+    "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 15
   },
@@ -93,10 +93,10 @@
     "lat": -29.985,
     "lon": -50.133,
     "weather": "cloudy",
-    "temperature": 22,
+    "temperature": 21,
     "feelsLike": 22,
     "rainfall": 0,
-    "windSpeed": 17
+    "windSpeed": 21
   },
   {
     "id": 11,
@@ -160,7 +160,7 @@
     "lon": -52.373,
     "weather": "cloudy",
     "temperature": 23,
-    "feelsLike": 23,
+    "feelsLike": 22,
     "rainfall": 0,
     "windSpeed": 15
   },
@@ -236,7 +236,7 @@
     "lat": -29.6869,
     "lon": -51.1314,
     "weather": "cloudy",
-    "temperature": 21,
+    "temperature": 22,
     "feelsLike": 22,
     "rainfall": 0,
     "windSpeed": 14
@@ -259,7 +259,7 @@
     "lon": -50.2056,
     "weather": "cloudy",
     "temperature": 21,
-    "feelsLike": 22,
+    "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 25
   },
@@ -314,7 +314,7 @@
     "lon": -53.3139,
     "weather": "cloudy",
     "temperature": 24,
-    "feelsLike": 25,
+    "feelsLike": 24,
     "rainfall": 0,
     "windSpeed": 22
   },
@@ -347,7 +347,7 @@
     "lon": -50.7819,
     "weather": "cloudy",
     "temperature": 19,
-    "feelsLike": 20,
+    "feelsLike": 19,
     "rainfall": 0,
     "windSpeed": 8
   },
@@ -357,8 +357,8 @@
     "lat": -29.1711,
     "lon": -51.5194,
     "weather": "cloudy",
-    "temperature": 19,
-    "feelsLike": 19,
+    "temperature": 18,
+    "feelsLike": 18,
     "rainfall": 0,
     "windSpeed": 11
   },
@@ -444,11 +444,11 @@
     "name": "Santana do Livramento",
     "lat": -30.891,
     "lon": -55.533,
-    "weather": "sunny",
+    "weather": "cloudy",
     "temperature": 23,
     "feelsLike": 24,
     "rainfall": 0,
-    "windSpeed": 18
+    "windSpeed": 19
   },
   {
     "id": 44,
@@ -511,7 +511,7 @@
     "lat": -31.109,
     "lon": -50.919,
     "weather": "cloudy",
-    "temperature": 21,
+    "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 25
@@ -523,7 +523,7 @@
     "lon": -51.966,
     "weather": "cloudy",
     "temperature": 23,
-    "feelsLike": 23,
+    "feelsLike": 24,
     "rainfall": 0,
     "windSpeed": 12
   },
@@ -556,9 +556,9 @@
     "lon": -51.6114,
     "weather": "cloudy",
     "temperature": 19,
-    "feelsLike": 19,
+    "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 11
+    "windSpeed": 12
   },
   {
     "id": 54,
