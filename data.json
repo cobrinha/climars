@@ -60,10 +60,10 @@
     "lat": -32.035,
     "lon": -52.0986,
     "weather": "cloudy",
-    "temperature": 16,
-    "feelsLike": 16,
+    "temperature": 17,
+    "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 18
+    "windSpeed": 19
   },
   {
     "id": 8,
@@ -71,7 +71,7 @@
     "lat": -28.263,
     "lon": -52.4069,
     "weather": "cloudy",
-    "temperature": 16,
+    "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
     "windSpeed": 14
@@ -93,7 +93,7 @@
     "lat": -29.985,
     "lon": -50.133,
     "weather": "cloudy",
-    "temperature": 20,
+    "temperature": 21,
     "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 8
@@ -148,7 +148,7 @@
     "lat": -29.717,
     "lon": -52.427,
     "weather": "cloudy",
-    "temperature": 19,
+    "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 5
@@ -192,10 +192,10 @@
     "lat": -32.5661,
     "lon": -53.3758,
     "weather": "cloudy",
-    "temperature": 13,
-    "feelsLike": 12,
+    "temperature": 16,
+    "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 9
+    "windSpeed": 10
   },
   {
     "id": 20,
@@ -258,7 +258,7 @@
     "lat": -30.1811,
     "lon": -50.2056,
     "weather": "cloudy",
-    "temperature": 20,
+    "temperature": 21,
     "feelsLike": 21,
     "rainfall": 0,
     "windSpeed": 12
@@ -327,7 +327,7 @@
     "temperature": 14,
     "feelsLike": 14,
     "rainfall": 0,
-    "windSpeed": 2
+    "windSpeed": 3
   },
   {
     "id": 32,
@@ -360,7 +360,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 5
+    "windSpeed": 3
   },
   {
     "id": 36,
@@ -444,11 +444,11 @@
     "name": "Santana do Livramento",
     "lat": -30.891,
     "lon": -55.533,
-    "weather": "sunny",
-    "temperature": 16,
-    "feelsLike": 16,
+    "weather": "cloudy",
+    "temperature": 13,
+    "feelsLike": 12,
     "rainfall": 0,
-    "windSpeed": 10
+    "windSpeed": 16
   },
   {
     "id": 44,
@@ -522,8 +522,8 @@
     "lat": -29.466,
     "lon": -51.966,
     "weather": "cloudy",
-    "temperature": 19,
-    "feelsLike": 19,
+    "temperature": 20,
+    "feelsLike": 20,
     "rainfall": 0,
     "windSpeed": 5
   },
@@ -591,7 +591,7 @@
     "temperature": 16,
     "feelsLike": 16,
     "rainfall": 0,
-    "windSpeed": 18
+    "windSpeed": 21
   },
   {
     "id": 57,
