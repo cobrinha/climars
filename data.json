@@ -104,21 +104,21 @@
     "lat": -27.635,
     "lon": -52.274,
     "weather": "cloudy",
-    "temperature": 15,
-    "feelsLike": 15,
+    "temperature": 16,
+    "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 7
+    "windSpeed": 6
   },
   {
     "id": 12,
     "name": "Bagé",
     "lat": -31.331,
     "lon": -54.108,
-    "weather": "sunny",
+    "weather": "cloudy",
     "temperature": 12,
     "feelsLike": 12,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 15
   },
   {
     "id": 13,
@@ -327,7 +327,7 @@
     "temperature": 14,
     "feelsLike": 14,
     "rainfall": 0,
-    "windSpeed": 3
+    "windSpeed": 2
   },
   {
     "id": 32,
@@ -360,7 +360,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 10
+    "windSpeed": 5
   },
   {
     "id": 36,
@@ -379,8 +379,8 @@
     "lat": -30.5122,
     "lon": -53.4914,
     "weather": "cloudy",
-    "temperature": 12,
-    "feelsLike": 12,
+    "temperature": 11,
+    "feelsLike": 11,
     "rainfall": 0,
     "windSpeed": 8
   },
@@ -500,8 +500,8 @@
     "lat": -30.543,
     "lon": -52.522,
     "weather": "cloudy",
-    "temperature": 16,
-    "feelsLike": 16,
+    "temperature": 15,
+    "feelsLike": 15,
     "rainfall": 0,
     "windSpeed": 10
   },
@@ -522,8 +522,8 @@
     "lat": -29.466,
     "lon": -51.966,
     "weather": "cloudy",
-    "temperature": 20,
-    "feelsLike": 20,
+    "temperature": 19,
+    "feelsLike": 19,
     "rainfall": 0,
     "windSpeed": 3
   },
