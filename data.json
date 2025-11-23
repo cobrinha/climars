@@ -19,7 +19,7 @@
     "temperature": 14,
     "feelsLike": 14,
     "rainfall": 0,
-    "windSpeed": 6
+    "windSpeed": 5
   },
   {
     "id": 3,
@@ -60,10 +60,10 @@
     "lat": -32.035,
     "lon": -52.0986,
     "weather": "cloudy",
-    "temperature": 18,
+    "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 24
+    "windSpeed": 25
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 18
+    "windSpeed": 16
   },
   {
     "id": 10,
@@ -96,7 +96,7 @@
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 22
+    "windSpeed": 19
   },
   {
     "id": 11,
@@ -104,10 +104,10 @@
     "lat": -27.635,
     "lon": -52.274,
     "weather": "cloudy",
-    "temperature": 18,
-    "feelsLike": 18,
+    "temperature": 15,
+    "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 12
   },
   {
     "id": 12,
@@ -136,11 +136,11 @@
     "name": "São Borja",
     "lat": -28.661,
     "lon": -56.004,
-    "weather": "cloudy",
+    "weather": "sunny",
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 14
   },
   {
     "id": 15,
@@ -148,10 +148,10 @@
     "lat": -29.717,
     "lon": -52.427,
     "weather": "cloudy",
-    "temperature": 20,
-    "feelsLike": 20,
+    "temperature": 19,
+    "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 11
+    "windSpeed": 13
   },
   {
     "id": 16,
@@ -173,7 +173,7 @@
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 13
   },
   {
     "id": 18,
@@ -184,7 +184,7 @@
     "temperature": 18,
     "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 9
+    "windSpeed": 10
   },
   {
     "id": 19,
@@ -193,9 +193,9 @@
     "lon": -53.3758,
     "weather": "cloudy",
     "temperature": 15,
-    "feelsLike": 15,
+    "feelsLike": 14,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 13
   },
   {
     "id": 20,
@@ -206,7 +206,7 @@
     "temperature": 14,
     "feelsLike": 13,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 12
   },
   {
     "id": 21,
@@ -217,7 +217,7 @@
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 20
+    "windSpeed": 19
   },
   {
     "id": 22,
@@ -237,9 +237,9 @@
     "lon": -51.1314,
     "weather": "cloudy",
     "temperature": 19,
-    "feelsLike": 19,
+    "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 6
+    "windSpeed": 8
   },
   {
     "id": 24,
@@ -250,7 +250,7 @@
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 20
+    "windSpeed": 18
   },
   {
     "id": 25,
@@ -261,7 +261,7 @@
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 26
+    "windSpeed": 22
   },
   {
     "id": 26,
@@ -272,7 +272,7 @@
     "temperature": 19,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 20
+    "windSpeed": 17
   },
   {
     "id": 27,
@@ -280,10 +280,10 @@
     "lat": -28.6675,
     "lon": -50.4183,
     "weather": "cloudy",
-    "temperature": 14,
+    "temperature": 13,
     "feelsLike": 13,
     "rainfall": 0,
-    "windSpeed": 7
+    "windSpeed": 8
   },
   {
     "id": 28,
@@ -313,10 +313,10 @@
     "lat": -27.8986,
     "lon": -53.3139,
     "weather": "cloudy",
-    "temperature": 19,
-    "feelsLike": 19,
+    "temperature": 17,
+    "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 22
+    "windSpeed": 23
   },
   {
     "id": 31,
@@ -324,10 +324,10 @@
     "lat": -29.3744,
     "lon": -50.8761,
     "weather": "cloudy",
-    "temperature": 14,
-    "feelsLike": 14,
+    "temperature": 13,
+    "feelsLike": 13,
     "rainfall": 0,
-    "windSpeed": 10
+    "windSpeed": 6
   },
   {
     "id": 32,
@@ -338,7 +338,7 @@
     "temperature": 14,
     "feelsLike": 14,
     "rainfall": 0,
-    "windSpeed": 6
+    "windSpeed": 5
   },
   {
     "id": 33,
@@ -349,7 +349,7 @@
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 9
+    "windSpeed": 8
   },
   {
     "id": 35,
@@ -360,7 +360,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 8
+    "windSpeed": 3
   },
   {
     "id": 36,
@@ -369,9 +369,9 @@
     "lon": -52.8942,
     "weather": "cloudy",
     "temperature": 19,
-    "feelsLike": 19,
+    "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 14
+    "windSpeed": 15
   },
   {
     "id": 37,
@@ -382,7 +382,7 @@
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 14
   },
   {
     "id": 38,
@@ -404,18 +404,18 @@
     "temperature": 19,
     "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 14
   },
   {
     "id": 40,
     "name": "Santiago",
     "lat": -29.1931,
     "lon": -54.8675,
-    "weather": "cloudy",
+    "weather": "rain",
     "temperature": 17,
     "feelsLike": 17,
     "rainfall": 0,
-    "windSpeed": 23
+    "windSpeed": 20
   },
   {
     "id": 41,
@@ -445,10 +445,10 @@
     "lat": -30.891,
     "lon": -55.533,
     "weather": "cloudy",
-    "temperature": 17,
-    "feelsLike": 18,
+    "temperature": 16,
+    "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 18
+    "windSpeed": 17
   },
   {
     "id": 44,
@@ -459,7 +459,7 @@
     "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 16
+    "windSpeed": 18
   },
   {
     "id": 45,
@@ -470,7 +470,7 @@
     "temperature": 19,
     "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 18
   },
   {
     "id": 46,
@@ -488,11 +488,11 @@
     "name": "São Luiz Gonzaga",
     "lat": -28.408,
     "lon": -54.96,
-    "weather": "cloudy",
+    "weather": "sunny",
     "temperature": 18,
     "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 18
   },
   {
     "id": 48,
@@ -503,7 +503,7 @@
     "temperature": 15,
     "feelsLike": 15,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 14
   },
   {
     "id": 49,
@@ -514,7 +514,7 @@
     "temperature": 19,
     "feelsLike": 18,
     "rainfall": 0,
-    "windSpeed": 23
+    "windSpeed": 22
   },
   {
     "id": 50,
@@ -536,7 +536,7 @@
     "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 13
+    "windSpeed": 12
   },
   {
     "id": 52,
@@ -588,7 +588,7 @@
     "lat": -28.638,
     "lon": -53.606,
     "weather": "cloudy",
-    "temperature": 17,
+    "temperature": 16,
     "feelsLike": 16,
     "rainfall": 0,
     "windSpeed": 26
@@ -602,7 +602,7 @@
     "temperature": 16,
     "feelsLike": 16,
     "rainfall": 0,
-    "windSpeed": 24
+    "windSpeed": 25
   },
   {
     "id": 58,
@@ -610,8 +610,8 @@
     "lat": -28.208,
     "lon": -51.525,
     "weather": "cloudy",
-    "temperature": 16,
-    "feelsLike": 16,
+    "temperature": 15,
+    "feelsLike": 15,
     "rainfall": 0,
     "windSpeed": 14
   },
@@ -633,9 +633,9 @@
     "lon": -49.886,
     "weather": "cloudy",
     "temperature": 19,
-    "feelsLike": 20,
+    "feelsLike": 19,
     "rainfall": 0,
-    "windSpeed": 21
+    "windSpeed": 18
   },
   {
     "id": 61,
@@ -646,7 +646,7 @@
     "temperature": 20,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 17
+    "windSpeed": 15
   },
   {
     "id": 62,
@@ -654,9 +654,9 @@
     "lat": -30.0913,
     "lon": -50.7891,
     "weather": "cloudy",
-    "temperature": 20,
+    "temperature": 19,
     "feelsLike": 20,
     "rainfall": 0,
-    "windSpeed": 15
+    "windSpeed": 13
   }
 ]
